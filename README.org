@@ -1,0 +1,9 @@
+* asdf-project-helper
+
+A project maintenance helper utilities with ASDF
+
+|---------+--------------------------------------------------------|
+| source  | git:https://github.com/ichimal/asdf-project-helper.git |
+| commit  | 315dd01                                                |
+| systems | asdf-project-helper                                    |
+|---------+--------------------------------------------------------|
